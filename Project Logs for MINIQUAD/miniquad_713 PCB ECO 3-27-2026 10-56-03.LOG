@@ -1,0 +1,259 @@
+Added Component: Designator=C1(CAPACITOR 0603)
+Added Component: Designator=C2(CAPACITOR 0603)
+Added Component: Designator=C3(CAPACITOR 0603)
+Added Component: Designator=C4(CAPACITOR 0603)
+Added Component: Designator=C5(CAPACITOR 0603)
+Added Component: Designator=C6(CAPACITOR 0603)
+Added Component: Designator=C7(CAPACITOR 0805)
+Added Component: Designator=C8(CAPACITOR 0805)
+Added Component: Designator=C9(CAPACITOR 0603)
+Added Component: Designator=C10(CAPACITOR 0805)
+Added Component: Designator=C11(CAPACITOR 0805)
+Added Component: Designator=C12(CAPACITOR 0805)
+Added Component: Designator=C13(CAPACITOR 0805)
+Added Component: Designator=C14(CAPACITOR 0805)
+Added Component: Designator=C15(CAPACITOR 0805)
+Added Component: Designator=C16(CAPACITOR 0603)
+Added Component: Designator=C17(CAPACITOR 0603)
+Added Component: Designator=D1(DIODE_SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey PN"; Value = "SS14-E3/5ATGITR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB PN"; Value = "C2837270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser PN"; Value = "512-SS14"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIODE_SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey PN"; Value = "SS14-E3/5ATGITR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB PN"; Value = "C2837270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser PN"; Value = "512-SS14"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DIODE_SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey PN"; Value = "SS14-E3/5ATGITR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB PN"; Value = "C2837270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser PN"; Value = "512-SS14"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DIODE_SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey PN"; Value = "SS14-E3/5ATGITR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB PN"; Value = "C2837270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser PN"; Value = "512-SS14"; VariantName = "[No Variations]"
+Added Component: Designator=J2(MALE-2.54-4P)
+Add component (AddParameter): Name = "JLCPCB PN"; Value = "C492403"; VariantName = "[No Variations]"
+Added Component: Designator=J3(MALE-2.54-4P)
+Add component (AddParameter): Name = "JLCPCB PN"; Value = "C492403"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(JP 1x2 CC)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x40P Cong"; VariantName = "[No Variations]"
+Added Component: Designator=L1(CUON CAM SMD 0530)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FDV0530-H-1R5M=P3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT95P280X125-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT95P280X125-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT95P280X125-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT95P280X125-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESISTOR_0603)
+Added Component: Designator=R2(RESISTOR_0603)
+Added Component: Designator=R3(RESISTOR_0603)
+Added Component: Designator=R4(RESISTOR_0603)
+Added Component: Designator=R5(RESISTOR_0603)
+Added Component: Designator=R6(RESISTOR_0603)
+Added Component: Designator=R7(RESISTOR_0603)
+Added Component: Designator=R8(RESISTOR_0603)
+Added Component: Designator=U1(SOIC127P600X170-9N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MP2307DN-LF-Z/Monolithic+Power+Systems+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MP2307DN-LF-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MP2307DN-LF-Z/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MP2307DN-LF-Z/Monolithic+Power+Systems+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(MPU6050)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U3(BMP280)
+Added Component: Designator=U4(STM32F411CEU6)
+Added Pin To Net: NetName=+3.3V_BUCK Pin=C1-2
+Added Pin To Net: NetName=+3.3V_BUCK Pin=C6-1
+Added Pin To Net: NetName=+3.3V_BUCK Pin=C9-2
+Added Pin To Net: NetName=+3.3V_BUCK Pin=J3-1
+Added Pin To Net: NetName=+3.3V_BUCK Pin=U2-1
+Added Pin To Net: NetName=+3.3V_BUCK Pin=U3-1
+Added Pin To Net: NetName=+3.3V_BUCK Pin=U3-5
+Added Pin To Net: NetName=+3.3V_BUCK Pin=U4-41
+Added Net: Name=+3.3V_BUCK
+Added Pin To Net: NetName=+3.3V_MCU Pin=C5-2
+Added Pin To Net: NetName=+3.3V_MCU Pin=J2-1
+Added Pin To Net: NetName=+3.3V_MCU Pin=U4-58
+Added Net: Name=+3.3V_MCU
+Added Pin To Net: NetName=3.3V_BUCK Pin=C17-2
+Added Pin To Net: NetName=3.3V_BUCK Pin=L1-2
+Added Pin To Net: NetName=3.3V_BUCK Pin=R8-2
+Added Net: Name=3.3V_BUCK
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=JP?-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U4-60
+Added Net: Name=GND
+Added Pin To Net: NetName=M+_1 Pin=C2-1
+Added Pin To Net: NetName=M+_1 Pin=C7-2
+Added Pin To Net: NetName=M+_1 Pin=C8-2
+Added Pin To Net: NetName=M+_1 Pin=C10-2
+Added Pin To Net: NetName=M+_1 Pin=C11-2
+Added Pin To Net: NetName=M+_1 Pin=C12-2
+Added Pin To Net: NetName=M+_1 Pin=C13-2
+Added Pin To Net: NetName=M+_1 Pin=C14-2
+Added Pin To Net: NetName=M+_1 Pin=C15-2
+Added Pin To Net: NetName=M+_1 Pin=D1-2
+Added Pin To Net: NetName=M+_1 Pin=D2-2
+Added Pin To Net: NetName=M+_1 Pin=D3-2
+Added Pin To Net: NetName=M+_1 Pin=D4-2
+Added Pin To Net: NetName=M+_1 Pin=JP?-1
+Added Pin To Net: NetName=M+_1 Pin=R1-2
+Added Pin To Net: NetName=M+_1 Pin=U1-2
+Added Net: Name=M+_1
+Added Pin To Net: NetName=M-_1 Pin=C12-1
+Added Pin To Net: NetName=M-_1 Pin=C13-1
+Added Pin To Net: NetName=M-_1 Pin=D3-1
+Added Pin To Net: NetName=M-_1 Pin=Q3-3
+Added Net: Name=M-_1
+Added Pin To Net: NetName=M-_2 Pin=C14-1
+Added Pin To Net: NetName=M-_2 Pin=C15-1
+Added Pin To Net: NetName=M-_2 Pin=D4-1
+Added Pin To Net: NetName=M-_2 Pin=Q4-3
+Added Net: Name=M-_2
+Added Pin To Net: NetName=M-_3 Pin=C10-1
+Added Pin To Net: NetName=M-_3 Pin=C11-1
+Added Pin To Net: NetName=M-_3 Pin=D2-1
+Added Pin To Net: NetName=M-_3 Pin=Q2-3
+Added Net: Name=M-_3
+Added Pin To Net: NetName=M-_4 Pin=C7-1
+Added Pin To Net: NetName=M-_4 Pin=C8-1
+Added Pin To Net: NetName=M-_4 Pin=D1-1
+Added Pin To Net: NetName=M-_4 Pin=Q1-3
+Added Net: Name=M-_4
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-8
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=U1-6
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R3-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=U1-1
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=L1-1
+Added Pin To Net: NetName=NetC16_2 Pin=U1-3
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R4-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R5-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R6-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R7-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-7
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R8-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-5
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=PWM_1 Pin=R6-2
+Added Pin To Net: NetName=PWM_1 Pin=U4-51
+Added Net: Name=PWM_1
+Added Pin To Net: NetName=PWM_2 Pin=R7-2
+Added Pin To Net: NetName=PWM_2 Pin=U4-52
+Added Net: Name=PWM_2
+Added Pin To Net: NetName=PWM_3 Pin=R5-2
+Added Pin To Net: NetName=PWM_3 Pin=U4-65
+Added Net: Name=PWM_3
+Added Pin To Net: NetName=PWM_4 Pin=R4-2
+Added Pin To Net: NetName=PWM_4 Pin=U4-66
+Added Net: Name=PWM_4
+Added Pin To Net: NetName=RX Pin=C5-1
+Added Pin To Net: NetName=RX Pin=J2-4
+Added Pin To Net: NetName=RX Pin=U4-48
+Added Net: Name=RX
+Added Pin To Net: NetName=SCL_1 Pin=U2-3
+Added Pin To Net: NetName=SCL_1 Pin=U4-55
+Added Net: Name=SCL_1
+Added Pin To Net: NetName=SCL_2 Pin=J3-3
+Added Pin To Net: NetName=SCL_2 Pin=U4-76
+Added Net: Name=SCL_2
+Added Pin To Net: NetName=SCL_3 Pin=U3-3
+Added Pin To Net: NetName=SCL_3 Pin=U4-74
+Added Net: Name=SCL_3
+Added Pin To Net: NetName=SDA_1 Pin=U2-4
+Added Pin To Net: NetName=SDA_1 Pin=U4-56
+Added Net: Name=SDA_1
+Added Pin To Net: NetName=SDA_2 Pin=J3-4
+Added Pin To Net: NetName=SDA_2 Pin=U4-77
+Added Net: Name=SDA_2
+Added Pin To Net: NetName=SDA_3 Pin=U3-4
+Added Pin To Net: NetName=SDA_3 Pin=U4-75
+Added Net: Name=SDA_3
+Added Pin To Net: NetName=TX Pin=J2-3
+Added Pin To Net: NetName=TX Pin=U4-47
+Added Net: Name=TX
+Added Class: Name=miniquad_713

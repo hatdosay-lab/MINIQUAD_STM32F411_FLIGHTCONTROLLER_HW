@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+3.3V_BUCK Pin=C17-2
+Removed Pin From Net: NetName=+3.3V_BUCK Pin=L1-2
+Removed Pin From Net: NetName=+3.3V_BUCK Pin=R8-2
+Change Component Designator: OldDesignator=* NewDesignator=U4
+Add Pin To Net: Unknown Pin: Pin U4-41
+Add Pin To Net: Unknown Pin: Pin U4-47
+Add Pin To Net: Unknown Pin: Pin U4-48
+Add Pin To Net: Unknown Pin: Pin U4-51
+Add Pin To Net: Unknown Pin: Pin U4-52
+Add Pin To Net: Unknown Pin: Pin U4-55
+Add Pin To Net: Unknown Pin: Pin U4-56
+Add Pin To Net: Unknown Pin: Pin U4-58
+Add Pin To Net: Unknown Pin: Pin U4-60
+Add Pin To Net: Unknown Pin: Pin U4-65
+Add Pin To Net: Unknown Pin: Pin U4-66
+Add Pin To Net: Unknown Pin: Pin U4-74
+Add Pin To Net: Unknown Pin: Pin U4-75
+Add Pin To Net: Unknown Pin: Pin U4-76
+Add Pin To Net: Unknown Pin: Pin U4-77
+Added Pin To Net: NetName=3.3V_BUCK Pin=C17-2
+Added Pin To Net: NetName=3.3V_BUCK Pin=L1-2
+Added Pin To Net: NetName=3.3V_BUCK Pin=R8-2
+Added Net: Name=3.3V_BUCK

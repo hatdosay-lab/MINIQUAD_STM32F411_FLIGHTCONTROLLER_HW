@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MINIQUAD.PrjPcb]
+   Generated File[miniquad_713.GTO]
+   Generated File[miniquad_713.GTP]
+   Generated File[miniquad_713.GTS]
+   Generated File[miniquad_713.GTL]
+   Generated File[miniquad_713.GBL]
+   Generated File[miniquad_713.GBS]
+   Generated File[miniquad_713.GBO]
+   Generated File[miniquad_713.GM1]
+   Generated File[miniquad_713.GM13]
+   Generated File[miniquad_713.GM15]
+   Generated File[miniquad_713.GPT]
+   Generated File[miniquad_713.GPB]
+   Generated File[miniquad_713.RUL]
+   Generated File[miniquad_713.EXTREP]
+   Generated File[miniquad_713.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 22:30:12 On 4/9/2026

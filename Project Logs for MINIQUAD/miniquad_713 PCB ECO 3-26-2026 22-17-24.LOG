@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=miniquad_713 Member=U4
+Added Component: Designator=*(STM32F411CEU6)
+Add Pin To Net: Unknown Pin: Pin *-41
+Add Pin To Net: Unknown Pin: Pin *-47
+Add Pin To Net: Unknown Pin: Pin *-48
+Add Pin To Net: Unknown Pin: Pin *-51
+Add Pin To Net: Unknown Pin: Pin *-52
+Add Pin To Net: Unknown Pin: Pin *-55
+Add Pin To Net: Unknown Pin: Pin *-56
+Add Pin To Net: Unknown Pin: Pin *-58
+Add Pin To Net: Unknown Pin: Pin *-60
+Add Pin To Net: Unknown Pin: Pin *-65
+Add Pin To Net: Unknown Pin: Pin *-66
+Add Pin To Net: Unknown Pin: Pin *-74
+Add Pin To Net: Unknown Pin: Pin *-75
+Add Pin To Net: Unknown Pin: Pin *-76
+Add Pin To Net: Unknown Pin: Pin *-77
+Added Member To Class: ClassName=miniquad_713 Member=Component * STM32F411CEU6

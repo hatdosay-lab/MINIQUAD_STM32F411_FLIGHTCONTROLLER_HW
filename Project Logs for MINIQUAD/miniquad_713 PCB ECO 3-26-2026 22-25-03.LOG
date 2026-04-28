@@ -1,0 +1,17 @@
+Added Component: Designator=U?(STM32F411CEU6)
+Added Pin To Net: NetName=+3.3V_BUCK Pin=U?-41
+Added Pin To Net: NetName=TX Pin=U?-47
+Added Pin To Net: NetName=RX Pin=U?-48
+Added Pin To Net: NetName=PWM_1 Pin=U?-51
+Added Pin To Net: NetName=PWM_2 Pin=U?-52
+Added Pin To Net: NetName=SCL_1 Pin=U?-55
+Added Pin To Net: NetName=SDA_1 Pin=U?-56
+Added Pin To Net: NetName=+3.3V_MCU Pin=U?-58
+Added Pin To Net: NetName=GND Pin=U?-60
+Added Pin To Net: NetName=PWM_3 Pin=U?-65
+Added Pin To Net: NetName=PWM_4 Pin=U?-66
+Added Pin To Net: NetName=SCL_3 Pin=U?-74
+Added Pin To Net: NetName=SDA_3 Pin=U?-75
+Added Pin To Net: NetName=SCL_2 Pin=U?-76
+Added Pin To Net: NetName=SDA_2 Pin=U?-77
+Added Member To Class: ClassName=miniquad_713 Member=Component U? STM32F411CEU6

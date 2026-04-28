@@ -1,0 +1,42 @@
+Change Component Comment : Designator=C2 Old Comment=10uF/25V CERAMIC New Comment=10uF/25V CERAMIC x2
+Added Component: Designator=C16(CAPACITOR 0603)
+Added Component: Designator=C17(CAPACITOR 0603)
+Added Component: Designator=L1(CUON CAM SMD 0530)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FDV0530-H-1R5M=P3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESISTOR_0603)
+Add Pin To Net: Unknown Pin: Pin *-41
+Add Pin To Net: Unknown Pin: Pin *-47
+Add Pin To Net: Unknown Pin: Pin *-48
+Add Pin To Net: Unknown Pin: Pin *-51
+Add Pin To Net: Unknown Pin: Pin *-52
+Add Pin To Net: Unknown Pin: Pin *-55
+Add Pin To Net: Unknown Pin: Pin *-56
+Add Pin To Net: Unknown Pin: Pin *-58
+Add Pin To Net: Unknown Pin: Pin *-60
+Add Pin To Net: Unknown Pin: Pin *-65
+Add Pin To Net: Unknown Pin: Pin *-66
+Add Pin To Net: Unknown Pin: Pin *-74
+Add Pin To Net: Unknown Pin: Pin *-75
+Add Pin To Net: Unknown Pin: Pin *-76
+Add Pin To Net: Unknown Pin: Pin *-77
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=+3.3V_BUCK Pin=C17-2
+Added Pin To Net: NetName=+3.3V_BUCK Pin=L1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R8-1
+Added Pin To Net: NetName=+3.3V_BUCK Pin=R8-2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=U1-1
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=L1-1
+Added Pin To Net: NetName=NetC16_2 Pin=U1-3
+Added Net: Name=NetC16_2
+Added Member To Class: ClassName=miniquad_713 Member=Component C16 10nF
+Added Member To Class: ClassName=miniquad_713 Member=Component C17 22uF/6.3V CERAMIC x2
+Added Member To Class: ClassName=miniquad_713 Member=Component L1 10uH/4A
+Added Member To Class: ClassName=miniquad_713 Member=Component R8 26.1K 1%
